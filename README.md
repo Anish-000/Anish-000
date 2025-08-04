@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Anish Chattopadhyay</h1>
-<h3 align="center">A Passionate Full-Stack Developer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-000&label=Profile%20views&color=0e75b6&style=flat" alt="anish-000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anish-000" alt="anish-000" /></a> </p>
 
-- 🔭 I’m currently working on **Full-Stack Development**
+- 🔭 I’m currently working on **Software Development**
 
 - 🌱 I’m currently learning **AI / Machine Learning**
 
 - 🤝 I’m looking for help with **Machine Learning**
 
-- 💬 Ask me about **HTML , CSS , JS , React**
+- 👨‍💻 All of my projects are available at [https://anish-portfolio-plum.vercel.app/](https://anish-portfolio-plum.vercel.app/)
+
+- 💬 Ask me about **HTML, CSS, JS, React, C, C++, OOP, DBMS**
 
 - 📫 How to reach me **anishchatto2002@gmail.com**
 
