@@ -3,7 +3,7 @@
 
 
 # 💫 About Me :
-🔭 I’m currently working on Software Development<br><br>🌱 I’m currently learning AI / Machine Learning<br><br>🤝 I’m looking for help with Machine Learning<br><br>👨‍💻 All of my projects are available at : https://github.com/Anish-000<br><br>💬 Ask me about HTML, Python, JavaScript, C, C++, OOPs, DSA <br><br>📫 How to reach me : anishchatto2002@gmail.com <br><br>⚡ Fun fact : I love to play Chess
+🔭 I’m currently working on AI integration in Software Applications <br><br>🌱 I’m currently learning AI / Machine Learning <br><br>👨‍💻 All of my projects are available at : https://github.com/Anish-000<br><br>💬 Ask me about HTML, Python, JavaScript, C, C++, OOPs, DSA <br><br>📫 How to reach me : anishchatto2002@gmail.com <br><br>⚡ Fun fact : I love to play Chess
 
 
 ## 🌐 Socials :
