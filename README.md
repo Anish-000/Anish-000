@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anish Chattopadhyay</h1>
-<h3 align="center">A Passionate Software Engineer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
 
 # 💫 About Me:
-🔭 I’m currently working on Software Development<br><br>🌱 I’m currently learning AI / Machine Learning<br><br>🤝 I’m looking for help with Machine Learning<br><br>👨‍💻 All of my projects are available at : https://github.com/Anish-000<br><br>💬 Ask me about HTML, CSS, JS, React, C, C++, OOP, DBMS<br><br>📫 How to reach me : anishchatto2002@gmail.com<br><br>⚡ Fun fact I love Chess
+🔭 I’m currently working on Software Development<br><br>🌱 I’m currently learning AI / Machine Learning<br><br>🤝 I’m looking for help with Machine Learning<br><br>👨‍💻 All of my projects are available at : https://github.com/Anish-000<br><br>💬 Ask me about HTML, CSS, JavaScript, React, C, C++, OOP, DBMS <br><br>📫 How to reach me : anishchatto2002@gmail.com <br><br>⚡ Fun fact I love to play Chess
 
 
 ## 🌐 Socials:
