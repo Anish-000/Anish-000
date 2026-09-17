@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Anish%20Chattopadhyay&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Anish%20Chattopadhyay&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18"/>
 
 <a href="https://github.com/Anish-000">
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer+from+India;AI+%2F+ML+Enthusiast;Building+cool+things+with+code;Always+learning+something+new&font=Fira%20Code&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22"/>
@@ -19,22 +19,19 @@
 
 ### 💫 About Me
 
-```yaml
-🔭 Currently Working On : AI integration in software applications
-🌱 Currently Learning   : AI / Machine Learning
-👯 Open To Collaborate  : Web apps, ML projects, developer tools
-💬 Ask Me About         : HTML, Python, JavaScript, C, C++, OOPs, DSA
-📫 Reach Me At          : anishchatto2002@gmail.com
-⚡ Fun Fact             : I love to play Chess ♟️
-🚀 Projects             : github.com/Anish-000?tab=repositories
-```
+- 🔭 **Currently working on:** AI integration in software applications
+- 🌱 **Currently learning:** AI / Machine Learning
+- 👯 **Open to collaborate on:** Web apps, ML projects, developer tools
+- 💬 **Ask me about:** HTML, Python, JavaScript, C, C++, OOPs, DSA
+- 📫 **Reach me at:** anishchatto2002@gmail.com
+- ⚡ **Fun fact:** I love to play Chess ♟️
+- 🚀 **Projects:** [github.com/Anish-000](https://github.com/Anish-000?tab=repositories)
 
 ---
 
 ### 💻 Tech Stack
 
 <p align="center">
-  <strong>Languages</strong><br>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -43,10 +40,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-</p>
-
-<p align="center">
-  <strong>Frameworks &amp; Libraries</strong><br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -56,10 +49,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
-</p>
-
-<p align="center">
-  <strong>Databases, Tools &amp; Platforms</strong><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white"/>
@@ -80,11 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anish-000&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish-000&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Anish-000&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
