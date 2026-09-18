@@ -61,29 +61,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anish-000&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-000&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Anish-000&amp;theme=tokyonight&amp;hide_border=true"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anish-000&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=false&amp;margin-w=8&amp;margin-h=8&amp;column=7&amp;row=1"/>
-</p>
-
-> **Note:** the trophy widget is served by a free third-party API (`github-profile-trophy.vercel.app`) that is occasionally slow or rate-limited on first load. If it doesn't render immediately, refresh the page after a few seconds — the image link itself is correct.
-
----
-
 ### ✍️ Random Dev Quote
 
 <p align="center">
