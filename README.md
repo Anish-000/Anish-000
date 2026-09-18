@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=220&amp;section=header&amp;text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Anish%20Chattopadhyay&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&amp;descAlignY=58&amp;descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=220&amp;section=header&amp;text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Anish%20Chattopadhyay&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Developer%20%7C%20AI%20%2F%20ML%20Enthusiast&amp;descAlignY=58&amp;descSize=18"/>
 
 <a href="https://github.com/Anish-000">
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer+from+India;AI+%2F+ML+Enthusiast;Building+cool+things+with+code;Always+learning+something+new&amp;font=Fira%20Code&amp;center=true&amp;width=500&amp;height=45&amp;color=58A6FF&amp;vCenter=true&amp;size=22"/>
