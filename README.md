@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Anish%20Chattopadhyay&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Anish%20Chattopadhyay&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18"/>
 
 <a href="https://github.com/Anish-000">
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer+from+India;AI+%2F+ML+Enthusiast;Building+cool+things+with+code;Always+learning+something+new&font=Fira%20Code&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22"/>
